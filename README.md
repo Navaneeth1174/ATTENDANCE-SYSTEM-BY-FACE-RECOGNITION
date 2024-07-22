@@ -8,7 +8,7 @@ Attendance Logging: Records recognized identities and timestamps in CSV files, p
 Data Management: Collects and stores face data and corresponding labels in pickle files, enabling easy updates and scalable management of face profiles.
 Technologies Used:
 
-Programming Languages: Python
+# Programming Languages: Python
 Libraries & Tools: OpenCV, scikit-learn (for KNN classifier), NumPy, Pickle, CSV
 Deployment: Local deployment using a webcam for live data capture and processing.
 Outcome:
