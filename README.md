@@ -1,8 +1,7 @@
 # ATTENDANCE-SYSTEM-BY-FACE-RECOGNITION
 Developed an advanced attendance management system leveraging face recognition technology to automate and streamline attendance tracking. The system employs a K-Nearest Neighbors (KNN) classifier for face recognition, integrated with real-time video processing for accurate and efficient attendance logging.
 
-#Key Features:
-
+# Key Features:
 Face Detection & Recognition: Utilizes OpenCV's Haar Cascade Classifier to detect and recognize faces from live video feeds. The KNN classifier, trained on a dataset of face images, accurately identifies individuals and matches them with stored profiles.
 Real-Time Processing: Captures live video input from a webcam, processes face images, and performs recognition in real-time.
 Attendance Logging: Records recognized identities and timestamps in CSV files, providing a comprehensive log of attendance for each day.
